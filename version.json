@@ -1,0 +1,6 @@
+{
+  "versionCode": 43,
+  "versionName": "4.3",
+  "apkUrl": "https://github.com/kireevl81/auto-doctor-obd/releases/download/v4.3/AutoDoctorOBD.apk",
+  "changelog": "v4.3: Заводская процедура инициализации АКПП SkyActiv-Drive 6AT FW6A-EL селектором (M− / M+ с выходом на 1100–1200 об/мин и контролем ATF 50–70°C); удалена сомнительная процедура по дворникам; скрыты неработающие кнопки электронных калибровок Mazda."
+}
