@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "4.4",
-  "apkUrl": "https://github.com/kireevl81/auto-doctor-obd/releases/download/v4.4/AutoDoctorOBD.apk",
-  "changelog": "v4.4: Очистка раздела «Сервис» для Mazda CX-5: полностью убран неработающий через стандартный ELM327 раздел «Скрытые функции». Стартовой и главной вкладкой установлены «Адаптации & Инструкции» с проверенными заводскими процедурами (АКПП M−/M+, стекла, руль, дроссель, i-Stop, TPMS, люк, тест чипа ELM327)."
+  "versionCode": 45,
+  "versionName": "4.5",
+  "apkUrl": "https://github.com/kireevl81/auto-doctor-obd/releases/download/v4.5/AutoDoctorOBD.apk",
+  "changelog": "v4.5: Исправление запуска приложения (восстановлен MainActivity и точка входа Compose), полная очистка раздела «Сервис» от неработающих скрытых функций для Mazda CX-5, адаптация АКПП M−/M+ с таймерами и контролем температуры ATF."
 }
